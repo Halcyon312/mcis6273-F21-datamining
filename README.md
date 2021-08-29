@@ -1,2 +1,12 @@
 # mcis6273-F21-datamining
 Repository for SAU Data Mining Class
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at lectus fermentum, aliquet tellus non, tempor magna. Phasellus eget felis in risus tempor volutpat vitae ac velit. Vivamus pulvinar lacinia pharetra. Mauris suscipit lorem vel ipsum aliquam commodo. Quisque at varius diam, eget ultrices turpis. Nam quis metus urna. Praesent convallis leo vel metus ultricies blandit. Nulla pulvinar lectus at dui lobortis vestibulum. Phasellus pellentesque accumsan leo vitae venenatis. Nunc sed finibus nunc, eget dictum metus. Nam aliquam quam id quam mollis vulputate.
+
+Morbi eget pharetra erat. Etiam non auctor dui. Nullam blandit ultricies tellus at luctus. Nam feugiat imperdiet hendrerit. Mauris pulvinar molestie erat, quis pulvinar ex ornare at. Proin diam justo, pulvinar eu sem nec, consectetur congue turpis. In tristique consequat dolor, eget semper orci venenatis eget. Praesent pulvinar ac ante id interdum. Phasellus ante augue, facilisis et nibh sit amet, consequat placerat lectus.
+
+Cras et arcu nisi. Ut sodales felis leo, non molestie orci aliquet id. Nulla eget arcu non eros placerat euismod. Fusce nisl turpis, feugiat vel viverra a, aliquam non ligula. Suspendisse feugiat ac nisi a vestibulum. Donec pellentesque, metus sit amet ullamcorper mattis, magna nisi malesuada tortor, ut placerat lectus arcu at quam. Quisque mattis dolor eu sem laoreet feugiat ac dignissim enim. Ut leo sapien, facilisis at ligula ac, congue scelerisque nisi. Ut pellentesque pellentesque mi, at faucibus ipsum ornare sed. Maecenas pellentesque quam sit amet nunc maximus facilisis. Sed fringilla aliquet felis eu consectetur. Nulla vel laoreet nisi. Etiam felis purus, maximus consequat molestie id, maximus vitae risus. Aliquam vel est nibh.
+
+Mauris eget laoreet tellus. Etiam accumsan tempor eros ac mattis. Maecenas quis libero vel nunc semper vehicula ac nec arcu. Nulla facilisi. Cras arcu ante, laoreet sit amet egestas ac, fermentum eget felis. Praesent tempus arcu vel est fringilla, et pretium ligula dignissim. Etiam nec dignissim lectus, ut placerat lacus. Quisque pellentesque at purus eu ullamcorper.
+
+Aliquam hendrerit nec erat non aliquam. Donec interdum, ex vitae dignissim ultrices, nulla quam euismod felis, ac auctor nunc neque a diam. Aliquam erat volutpat. Sed mattis dolor sed fringilla venenatis. Phasellus ut sem ut mauris hendrerit aliquet id auctor ex. Sed est lacus, elementum ut arcu eget, congue aliquam lacus. Fusce varius elit at nisi tempus lobortis.
