@@ -1,5 +1,5 @@
 # mcis6273-F21-datamining
-Repository for SAU Data Mining Class
+Repository for SAU MCIS 6273 Data Mining 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus at lectus fermentum, aliquet tellus non, tempor magna. Phasellus eget felis in risus tempor volutpat vitae ac velit. Vivamus pulvinar lacinia pharetra. Mauris suscipit lorem vel ipsum aliquam commodo. Quisque at varius diam, eget ultrices turpis. Nam quis metus urna. Praesent convallis leo vel metus ultricies blandit. Nulla pulvinar lectus at dui lobortis vestibulum. Phasellus pellentesque accumsan leo vitae venenatis. Nunc sed finibus nunc, eget dictum metus. Nam aliquam quam id quam mollis vulputate.
 
